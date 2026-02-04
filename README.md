@@ -14,6 +14,8 @@ Este error ocurrió debido a que el entorno del laboratorio tenía configuradas 
 
 Debido a la limitación de tiempo y para no retrasar la entrega del trabajo, se optó inicialmente por subir el proyecto comprimido en un archivo `.rar` utilizando la interfaz web de GitHub.
 
+**Para poder visualizar el contenido del proyecto en esa subida inicial, es necesario descargar el archivo .rar, ya que GitHub no muestra los archivos internos de los comprimidos**.
+
 ---
 
 Gracias por la comprensión.
